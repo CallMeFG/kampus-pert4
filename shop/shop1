@@ -8,5 +8,8 @@
     <link rel="stylesheet" href="style-shop1.css" />
   </head>
 <body>
-  
+  <header>
+    <nav>
+    </nav>
+  </header>
 </body>
